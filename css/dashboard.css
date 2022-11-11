@@ -1,0 +1,20 @@
+.uploadimage{
+    float: right;
+    width: 25%;
+    transition: 1s;
+    background: #00000000;
+    outline: 2px;
+    font-size: 16px;
+    
+}
+.uploadimage:hover{
+    cursor: pointer;
+    outline: 2px solid dodgerblue;
+    font-size: 16px;
+    background-color: dodgerblue;  
+}
+.label{
+    font-size: 24px;
+    color: dodgerblue;
+    font-weight: bold;
+}
